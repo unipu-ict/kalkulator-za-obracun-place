@@ -1,4 +1,4 @@
-# kalkulator-za-obracun-place-
+# kalkulator-za-obracun-place
 Mobilna aplikacija za obračun plaće i pretvorbe neto&lt;->bruto.
 
 ### Autori (2017./2018.)
